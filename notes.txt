@@ -1,0 +1,7 @@
+GYM-BOT-PRO development notes
+
+1. Telegram onboarding
+2. Fitness tests
+3. Workout logging
+4. Progress reports
+5. Comic delivery
