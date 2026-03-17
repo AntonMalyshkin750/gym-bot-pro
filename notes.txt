@@ -6,3 +6,4 @@ GYM-BOT-PRO development notes
 4. Progress reports
 5. Comic delivery
 6. Branch practice
+7. Git log and diff practice
