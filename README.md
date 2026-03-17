@@ -18,3 +18,7 @@ GYM-BOT-PRO is a Telegram fitness bot built with n8n and Google Sheets for user 
 
 \- Motivational comic delivery
 
+
+
+
+
